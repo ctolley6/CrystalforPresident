@@ -50,7 +50,7 @@ section {
   flex: 1;
 }
 
-h2 {
+h2, h3 {
   font-family: Segoe Script;
   text-align: center;
   padding: 0; 
