@@ -18,7 +18,10 @@ header {
 footer {
   background-color:#4dd6c8;
   height: 30px;
-  clear: both;
+  padding: 10px;
+  margin: 0px;
+  display: flex;
+  align-items: center;
 }
 
 h1, h3, ul {
@@ -57,12 +60,6 @@ h2, h3 {
   font-family: Segoe Script;
   text-align: center;
   padding: 0; 
-}
-
-footer {
-  padding: 10px;
-  margin: 0px;
-
 }
 
 .footer-link {
